@@ -1,0 +1,1 @@
+QMainWindow, QWidget { background:#20242b; color:#e6e6e6; font-size: 10pt; } QTableWidget,QTreeWidget,QTextEdit,QLineEdit { background:#151922; color:#e6e6e6; border:1px solid #3a3f4b; } QPushButton { background:#2d3440; border:1px solid #596273; padding:6px; } QPushButton:hover { background:#3a4352; } QHeaderView::section { background:#2d3440; color:#fff; padding:4px; }
