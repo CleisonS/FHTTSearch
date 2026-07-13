@@ -1,0 +1,5 @@
+PySide6>=6.6,<6.9
+pywinauto>=0.6.8,<0.7
+pywin32>=306; platform_system == "Windows"
+psutil>=5.9,<6.2
+Pillow>=10.0,<12
