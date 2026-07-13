@@ -1,0 +1,17 @@
+{
+  "theme": "dark",
+  "log_level": "INFO",
+  "inspection_max_depth": 20,
+  "inspection_max_controls": 10000,
+  "inspection_timeout_seconds": 60,
+  "live_inspector_interval_ms": 250,
+  "default_backend": "uia",
+  "output_directory": "output",
+  "screenshots_directory": "output/screenshots",
+  "only_visible_windows": false,
+  "unm_title_filters": ["UNM", "UNM2000", "NE Manager", "FiberHome"],
+  "enable_overlay": false,
+  "csv_delimiter": ";",
+  "csv_encoding": "utf-8-sig",
+  "always_on_top_live_inspector": false
+}
